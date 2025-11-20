@@ -1,4 +1,4 @@
-##Quizzy
+Quizzy
 
 Welcome to #Quizzy, a simple quiz-style game project. This repository contains two main folders:
 
@@ -6,12 +6,12 @@ GameFiles – Contains all Unity project assets for Quiz Master, allowing you to
 
 Quizzy_Playable – Contains the built game executable so you can play Quizzy immediately without opening Unity.
 
-#📁 Repository Structure
+📁 Repository Structure
 /
 ├── GameFiles/          # Unity project files (Quiz Master)
 └── Quizzy_Playable/    # Playable game build, including the .exe
 
-#▶️ How to Play the Game
+▶️ How to Play the Game
 
 To play Quizzy, follow these steps:
 
